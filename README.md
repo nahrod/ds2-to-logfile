@@ -1,6 +1,6 @@
 # Akamai DataStream 2 to Logfile
 
-Simpel function that recieves POST requests and saves to a textfile.
+Simple function that recieves POST requests and saves to a textfile.
 
 ## Build
 
